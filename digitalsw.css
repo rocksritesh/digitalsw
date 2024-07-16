@@ -1,0 +1,36 @@
+h1{
+    border: 20px solid rgb(68, 173, 173);
+    border-style: groove;
+    font-size: 70px;
+    text-align: center;
+    width: 600px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+    border-top-color: blue;
+    border-left-color: blue;
+    border-right-color: blue;
+    border-bottom-color: blue;
+}
+
+.rit{
+    border: 2px solid black ;
+    height: 20px ;
+    width: 100px;
+    margin-top: -48px;
+    margin-left: 50px;
+    background-color: blue;
+    border-radius: 50px;
+}
+
+.esh{
+    border: 2px solid black ;
+    height: 20px ;
+    width: 100px;
+    display: flex;
+   margin-top: -23px;
+    background-color: blue;
+    border-radius: 50px;
+    margin-left: 480px;
+    
+}
